@@ -1,0 +1,14 @@
+permalink: pretty
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: dhilanr/jekyll-theme-crestlex
+
+url: https://tinyml.seas.harvard.edu
+baseurl: /SustainableDev-24
+
+title: Workshop on TinyML for Sustainable Development 2024
+
+alert:
+    - success

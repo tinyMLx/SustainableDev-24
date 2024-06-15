@@ -1,0 +1,129 @@
+headers:
+ - "Day"
+ - "Date"
+ - "Topics"
+ - "Speakers and Materials"
+
+days:
+  - number: "1"
+    dayOfWeek: "Monday"
+    name: "Introduction to (tiny)ML"
+    schedule:
+      - time: "9:00:00 AM"
+        name: "Workshop Opening and Schedule"
+      - time: "9:15:00 AM"
+        name: "Opening Talk"
+      - time: "10:00:00 AM"
+        name: "Opening Keynote"
+      - time: "10:45:00 AM"
+        name: "Coffee Break"
+      - time: "11:15:00 AM"
+        name: "Introduction to Embedded ML"
+      - time: "12:00:00 PM"
+        name: "Lunch"
+      - time: "1:00:00 PM"
+        name: "First Hands-On TinyML Lab"
+      - time: "3:00:00 PM"
+        name: "Getting Started with Your Projects"
+    speakers:
+      # Marco Zennaro
+      # Prof. Galvão, CNPq
+      # Bruno Flach, IBM Brazil Lab Director (45)
+      # Marcelo
+      # Vijay
+      # Rodrigo
+      # - name: "Marco Zennaro"
+      #   website: "http://users.ictp.it/~mzennaro/"
+      #   affiliation:
+      #     name: "ICTP"
+      #     website: "https://www.ictp.it/"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/marco_slides.pdf"
+      #       local: "1"
+      #       related_to_next: ""
+      #     - title: "Video"
+      #       url: "https://youtu.be/iTObHdfq5zM?si=6TfXJajJLwewN6nR"
+      # - name: "Vijay Janapa Reddi"
+      #   website: "https://scholar.harvard.edu/vijay-janapa-reddi"
+      #   affiliation:
+      #     name: "Harvard University"
+      #     website: "https://seas.harvard.edu/"
+      #   links:
+      #     - title: "Slides"
+      #       url: "/assets/slides/vijay_slides.pdf"
+      #       local: "1"
+      #       related_to_next: ""
+      #     - title: "Video"
+      #       url: "https://youtu.be/wW4FSf3OwqM"
+            
+
+  - number: "2"
+    dayOfWeek: "Tuesday"
+    name: "Image and Video Applications"
+    schedule:
+      - time: "9:00:00 AM"
+        name: "Day Opening"
+      - time: "9:10:00 AM"
+        name: "Convolutions and Computer Vision"
+      - time: "9:45:00 AM"
+        name: "Applications of Video EdgeAI"
+      - time: "10:30:00 AM"
+        name: "Coffee Break"
+      - time: "11:00:00 AM"
+        name: "Video Applications for SDGs"
+      - time: "11:30:00 AM"
+        name: "TinyML and Robotics"
+      - time: "12:00:00 PM"
+        name: "Lunch"
+      - time: "1:00:00 PM"
+        name: "Hands-On Computer Vision"
+      - time: "3:00:00 PM"
+        name: "Bee Counting with FOMO and YOLO"
+    speakers:
+      # Brian
+      # Marcelo
+      # Eric Pan
+
+  - number: "3"
+    dayOfWeek: "Wednesday"
+    name: "Audio Applications"
+    schedule:
+    speakers:
+      # 9:00 Preprocessing for Audio, Jesus (60)
+      # 10:00 Keyword spotting applications TBD? (30)
+      # 10:30 Coffee Break
+      # 11:00 TinyML and Sustainability, Brian
+      # 12:00 Lunch
+      # 1:00 Lab: Keyword spotting with TinyML TBD?
+      # 3:00 Case studies/demo: TinyML for audio
+
+  - number: "4"
+    dayOfWeek: "Thursday"
+    name: "TinyML Education"
+    schedule:
+    speakers:
+      # 9:00 Teaching (Tiny)ML Panel/Group Discussion led by David, Flavio
+      # 10:00 Coffee Break
+      # 10:30 Case studies: Jesus, Marcelo, Silvia Sotelo, Jose Antonio, teaching to non-technical students, Moises
+      # 11:30 Micro:bit (?)
+      # 12:00 Lunch
+      # 1:00 Lab: Hands-on Motion Classification and Anomaly Detection, TBD?
+      # 3:00 Case Study: TinyML in Space, Jose Antonio
+
+  - number: "5"
+    dayOfWeek: "Friday"
+    name: "Advanced Topics"
+    schedule:
+    speakers:
+      # 9:00 Ethics of TinyML, TBD
+      # 9:45 Microsoft Mosquito project, David’s contact (?)
+      # 10:15 Hardware X, David
+      # 10:30 Coffee Break
+      # 11:00 LSTM and LLMs, Marcelo
+      # 11:30 Federated Learning in TinyML, Claudio
+      # 12:00 Lunch
+      # 1:00 Closing keynote: Pete from TinyML Foundation
+      # 1:45 Project Presentations from Teams
+      # 3:15 TinyML4D Overview, Marco
+

@@ -1,0 +1,1 @@
+To view the materials and videos from past TinyML4D workshops and seminars please visit the <a href="https://tinyml.seas.harvard.edu/4D/pastEvents">TinyML4D Past Events</a> page.
