@@ -22,21 +22,17 @@ days:
       - time: "12:00:00 PM"
         name: "Lunch"
       - time: "1:00:00 PM"
+        name: "'Caninos Loucos'"
+      - time: "1:00:00 PM"
         name: "First Hands-On TinyML Lab"
       - time: "3:00:00 PM"
         name: "Getting Started with Your Projects"
     speakers:
-      # Marco Zennaro
-      # Prof. Galvão, CNPq
-      # Bruno Flach, IBM Brazil Lab Director (45)
-      # Marcelo
-      # Vijay
-      # Rodrigo
-      # - name: "Marco Zennaro"
-      #   website: "http://users.ictp.it/~mzennaro/"
-      #   affiliation:
-      #     name: "ICTP"
-      #     website: "https://www.ictp.it/"
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
       #   links:
       #     - title: "Slides"
       #       url: "/assets/slides/marco_slides.pdf"
@@ -44,19 +40,36 @@ days:
       #       related_to_next: ""
       #     - title: "Video"
       #       url: "https://youtu.be/iTObHdfq5zM?si=6TfXJajJLwewN6nR"
-      # - name: "Vijay Janapa Reddi"
-      #   website: "https://scholar.harvard.edu/vijay-janapa-reddi"
-      #   affiliation:
-      #     name: "Harvard University"
-      #     website: "https://seas.harvard.edu/"
-      #   links:
-      #     - title: "Slides"
-      #       url: "/assets/slides/vijay_slides.pdf"
-      #       local: "1"
-      #       related_to_next: ""
-      #     - title: "Video"
-      #       url: "https://youtu.be/wW4FSf3OwqM"
-            
+      - name: "Ricardo Magnus Osório Galvão"
+        website: "https://www.gov.br/cnpq/pt-br/composicao/diretoria-executiva-1/presidencia/evaldo-ferreira-vilela"
+        affiliation:
+          name: "National Council for Scientific and Technological Development"
+          website: "https://www.gov.br/cnpq/pt-br"
+      - name: "Bruno Flach"
+        website: "https://research.ibm.com/people/bruno-da-costa-flach"
+        affiliation:
+          name: "IBM Research Brazil"
+          website: "https://research.ibm.com/labs/brazil"
+      - name: "Marcelo Rovai"
+        website: "https://github.com/Mjrovai"
+        affiliation:
+          name: "Federal University of Itajuba - UNIFEI"
+          website: "https://unifei.edu.br/"
+      - name: "Vijay Janapa Reddi"
+        website: "https://scholar.harvard.edu/vijay-janapa-reddi"
+        affiliation:
+          name: "Harvard University"
+          website: "https://seas.harvard.edu/"
+      - name: "Marcelo Knörich Zuffo"
+        website: "https://www.lsi.usp.br/~mkzuffo/"
+        affiliation:
+          name: "Escola Politécnica da Universidade de São Paulo"
+          website: "https://www.poli.usp.br/"
+      - name: "Rodrigo Neumann Barros Ferreira"
+        website: "https://research.ibm.com/people/rodrigo-neumann-barros-ferreira"
+        affiliation:
+          name: "IBM Research Brazil"
+          website: "https://research.ibm.com/labs/brazil"
 
   - number: "2"
     dayOfWeek: "Tuesday"
@@ -66,7 +79,7 @@ days:
         name: "Day Opening"
       - time: "9:10:00 AM"
         name: "Convolutions and Computer Vision"
-      - time: "9:45:00 AM"
+      - time: "9:40:00 AM"
         name: "Applications of Video EdgeAI"
       - time: "10:30:00 AM"
         name: "Coffee Break"
@@ -79,51 +92,211 @@ days:
       - time: "1:00:00 PM"
         name: "Hands-On Computer Vision"
       - time: "3:00:00 PM"
+        name: "TinyML in Space"
+      - time: "3:30:00 PM"
         name: "Bee Counting with FOMO and YOLO"
     speakers:
-      # Brian
-      # Marcelo
-      # Eric Pan
+      - name: "Brian Plancher"
+        website: "https://brianplancher.com/"
+        affiliation:
+          name: "Barnard College, Columbia University"
+          website: "https://barnard.edu/"
+      - name: "Marcelo Rovai"
+        website: "https://github.com/Mjrovai"
+        affiliation:
+          name: "Federal University of Itajuba - UNIFEI"
+          website: "https://unifei.edu.br/"
+      - name: "Eric Pan"
+        affiliation: 
+          name: "Seeed Studio"
+          website: "https://www.seeedstudio.com/"
+      - name: "José Antonio Bagur Nájera"
+        website: "https://www.linkedin.com/in/joseantoniobagur/"
+        affiliation:
+          name: "Universidad del Valle de Guatemala"
+          website: "https://www.uvg.edu.gt/"
 
   - number: "3"
     dayOfWeek: "Wednesday"
     name: "Audio Applications"
     schedule:
+      - time: "9:00:00 AM"
+        name: "Day Opening"
+      - time: "9:10:00 AM"
+        name: "Preprocessing for Audio"
+      - time: "10:00:00 AM"
+        name: "Applications of Keyword Spotting (KWS)"
+      - time: "10:30:00 AM"
+        name: "Coffee Break"
+      - time: "11:00:00 AM"
+        name: "TinyML and Sustainability"
+      - time: "12:00:00 PM"
+        name: "Lunch"
+      - time: "1:00:00 PM"
+        name: "Hands-On Keyword Spotting"
+      - time: "3:00:00 PM"
+        name: "TinyML on ICT"
     speakers:
-      # 9:00 Preprocessing for Audio, Jesus (60)
-      # 10:00 Keyword spotting applications TBD? (30)
-      # 10:30 Coffee Break
-      # 11:00 TinyML and Sustainability, Brian
-      # 12:00 Lunch
-      # 1:00 Lab: Keyword spotting with TinyML TBD?
-      # 3:00 Case studies/demo: TinyML for audio
+      - name: "Jesús Alfonso López Sotelo"
+        website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
+        affiliation:
+          name: "Universidad Autónoma de Occidente"
+          website: "https://www.uao.edu.co/"
+      - name: "Brian Plancher"
+        website: "https://brianplancher.com/"
+        affiliation:
+          name: "Barnard College, Columbia University"
+          website: "https://barnard.edu/"
+      - name: "Walter Augusto Varella"
+        website: "https://integra.ifsp.edu.br/p/walter-augusto-varella"
+        affiliation:
+          name: "Federal Institute of São Paulo"
+          website: "https://integra.ifsp.edu.br/"
 
   - number: "4"
     dayOfWeek: "Thursday"
     name: "TinyML Education"
     schedule:
+      - time: "9:00:00 AM"
+        name: "Day Opening"
+      - time: "9:10:00 AM"
+        name: "Teaching (Tiny)ML Panel/Group Discussion"
+      - time: "10:00:00 AM"
+        name: "Coffee Break"
+      - time: "10:30:00 AM"
+        name: "Education Case Studies"
+      - time: "11:30:00 AM"
+        name: "Micro:bit and TinyML"
+      - time: "12:00:00 PM"
+        name: "Lunch"
+      - time: "1:00:00 PM"
+        name: "Hands-On Motion Classification and Anomaly Detection"
+      - time: "3:00:00 PM"
+        name: "TinyML Rock Paper Scissors"
+      - time: "3:30:00 PM"
+        name: "Car Accident Prevention"
+      - time: "4:00:00 PM"
+        name: "ECG with TinyML"
     speakers:
-      # 9:00 Teaching (Tiny)ML Panel/Group Discussion led by David, Flavio
-      # 10:00 Coffee Break
-      # 10:30 Case studies: Jesus, Marcelo, Silvia Sotelo, Jose Antonio, teaching to non-technical students, Moises
-      # 11:30 Micro:bit (?)
-      # 12:00 Lunch
-      # 1:00 Lab: Hands-on Motion Classification and Anomaly Detection, TBD?
-      # 3:00 Case Study: TinyML in Space, Jose Antonio
+      - name: "David Cuartielles"
+        website: "https://mau.se/en/persons/david.cuartielles/"
+        affiliation:
+          name: "Arduino (Co-Founder)"
+          website: "https://www.arduino.cc/en/about#founders"
+        affiliation2:
+          name: "Malmö University"
+          website: "https://mau.se/en/"
+      - name: "Flavio du Pin Calmon"
+        website: "https://people.seas.harvard.edu/~flavio/"
+        affiliation:
+          name: "Harvard University"
+          website: "https://seas.harvard.edu/"
+      - name: "Jesús Alfonso López Sotelo"
+        website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
+        affiliation:
+          name: "Universidad Autónoma de Occidente"
+          website: "https://www.uao.edu.co/"
+      - name: "Marcelo Rovai"
+        website: "https://github.com/Mjrovai"
+        affiliation:
+          name: "Federal University of Itajuba - UNIFEI"
+          website: "https://unifei.edu.br/"
+      - name: "Silvia Sotelo"
+        website: ""
+        affiliation:
+          name: ""
+          website: ""
+      - name: "José Antonio Bagur Nájera"
+        website: "https://www.linkedin.com/in/joseantoniobagur/"
+        affiliation:
+          name: "Universidad del Valle de Guatemala"
+          website: "https://www.uvg.edu.gt/"
+      - name: "Moises Meza"
+        website: "https://pe.linkedin.com/in/moises-stevend-meza-rodriguez-a84934148"
+        affiliation:
+          name: ""
+          website: ""
+      - name: "Brian Arenas" #Colombia
+        website: ""
+        affiliation:
+          name: ""
+          website: ""
+      - name: "George Fajardo" #Peru
+        website: ""
+        affiliation:
+          name: ""
+          website: ""
+      - name: "José Alberto Ferreira Filho"
+        website: "https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=394714"
+        affiliation:
+          name: "Federal University of Itajuba - UNIFEI"
+          website: "https://unifei.edu.br/"
 
   - number: "5"
     dayOfWeek: "Friday"
     name: "Advanced Topics"
     schedule:
+      - time: "9:00:00 AM"
+        name: "Day Opening"
+      - time: "9:10:00 AM"
+        name: "Ethics of TinyML"
+      - time: "9:40:00 AM"
+        name: "TBD"
+      - time: "10:15:00 AM"
+        name: "Hardware X"
+      - time: "10:30:00 AM"
+        name: "Coffee Break"
+      - time: "11:00:00 AM"
+        name: "LSTMs and LLMs"
+      - time: "11:20:00 AM"
+        name: "Federated Learning for TinyML"
+      - time: "11:40:00 AM"
+        name: "On-Device TinyML Training"
+      - time: "12:00:00 PM"
+        name: "Lunch"
+      - time: "1:00:00 PM"
+        name: "Closing Keynote"
+      - time: "1:45:00 PM"
+        name: "Team Project Presentations"
+      - time: "3:15:00 PM"
+        name: "TinyML4D Future Opportunities and Networking"
     speakers:
-      # 9:00 Ethics of TinyML, TBD
-      # 9:45 Microsoft Mosquito project, David’s contact (?)
-      # 10:15 Hardware X, David
-      # 10:30 Coffee Break
-      # 11:00 LSTM and LLMs, Marcelo
-      # 11:30 Federated Learning in TinyML, Claudio
-      # 12:00 Lunch
-      # 1:00 Closing keynote: Pete from TinyML Foundation
-      # 1:45 Project Presentations from Teams
-      # 3:15 TinyML4D Overview, Marco
+      - name: "David Cuartielles"
+        website: "https://mau.se/en/persons/david.cuartielles/"
+        affiliation:
+          name: "Arduino (Co-Founder)"
+          website: "https://www.arduino.cc/en/about#founders"
+        affiliation2:
+          name: "Malmö University"
+          website: "https://mau.se/en/"
+      - name: "Marcelo Rovai"
+        website: "https://github.com/Mjrovai"
+        affiliation:
+          name: "Federal University of Itajuba - UNIFEI"
+          website: "https://unifei.edu.br/"
+      - name: "Jesús Alfonso López Sotelo"
+        website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
+        affiliation:
+          name: "Universidad Autónoma de Occidente"
+          website: "https://www.uao.edu.co/"
+      - name: "Claudio Santos Pinhanez"
+        website: "https://research.ibm.com/people/claudio-santos-pinhanez"
+        affiliation:
+          name: "IBM Research Brazil"
+          website: "https://research.ibm.com/labs/brazil"
+      - name: "Tiago de Souza" #Brazil
+        website: ""
+        affiliation:
+          name: ""
+          website: ""
+      - name: "Pete Bernard"
+        website: "https://www.linkedin.com/in/bernardpete/"
+        affiliation:
+          name: "tinyML Foundation"
+          website: "https://www.tinyml.org/"
+      - name: "Marco Zennaro"
+        website: "http://users.ictp.it/~mzennaro/"
+        affiliation:
+          name: "ICTP"
+          website: "https://www.ictp.it/"
 
