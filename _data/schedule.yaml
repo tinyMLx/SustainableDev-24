@@ -286,11 +286,11 @@ days:
         affiliation:
           name: "Universidad Autónoma de Occidente"
           website: "https://www.uao.edu.co/"
-      - name: "Tiago de Souza" #Brazil
+      - name: "Tiago de Souza Farias" #Brazil
         website: ""
         affiliation:
-          name: ""
-          website: ""
+          name: "Federal University of Sao Carlos"
+          website: "https://www.ufscar.br/foreign-visitor/about-ufscar"
       - name: "Pete Bernard"
         website: "https://www.linkedin.com/in/bernardpete/"
         affiliation:
