@@ -43,7 +43,7 @@ days:
       - name: "Ricardo Magnus Osório Galvão"
         website: "https://www.gov.br/cnpq/pt-br/composicao/diretoria-executiva-1/presidencia/evaldo-ferreira-vilela"
         affiliation:
-          name: "National Council for Scientific and Technological Development"
+          name: "National Council for Scientific and Technological Development - CNPq"
           website: "https://www.gov.br/cnpq/pt-br"
       - name: "Bruno Flach"
         website: "https://research.ibm.com/people/bruno-da-costa-flach"
@@ -106,7 +106,8 @@ days:
         affiliation:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
-      - name: "Eric Pan"
+      - name: "Eric Pan" 
+        website: "https://www.linkedin.com/in/ericspan/"
         affiliation: 
           name: "Seeed Studio"
           website: "https://www.seeedstudio.com/"
@@ -216,6 +217,12 @@ days:
         affiliation:
           name: "Universidad Peruana Cayetano Heredia"
           website: "https://cayetano.edu.pe/"
+      - name: "Jose Scodiero"
+        website: "https://www.linkedin.com/in/jose-antonio-scodiero-aa0120/"
+        affiliation:
+          name: "Micro:bit Educational Foundation"
+          website: "https://microbit.org/"
+          
       - name: "Brayan Arenas" #Colombia 
         website: ""
         affiliation:
