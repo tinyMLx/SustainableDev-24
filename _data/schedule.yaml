@@ -23,7 +23,7 @@ days:
         name: "Lunch"
       - time: "1:00:00 PM"
         name: "'Caninos Loucos'"
-      - time: "1:00:00 PM"
+      - time: "1:45:00 PM"
         name: "First Hands-On TinyML Lab"
       - time: "3:00:00 PM"
         name: "Getting Started with Your Projects"
