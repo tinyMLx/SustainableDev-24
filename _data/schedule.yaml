@@ -201,11 +201,11 @@ days:
         affiliation:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
-      - name: "Silvia Sotelo"
+      - name: "Silvia Sotelo-Lopez"
         website: ""
         affiliation:
-          name: ""
-          website: ""
+          name: "Universidad Pontificia Bolivariana"
+          website: "https://www.upb.edu.co/es/home"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
@@ -214,18 +214,18 @@ days:
       - name: "Moises Meza"
         website: "https://pe.linkedin.com/in/moises-stevend-meza-rodriguez-a84934148"
         affiliation:
-          name: ""
-          website: ""
-      - name: "Brian Arenas" #Colombia
+          name: "Universidad Peruana Cayetano Heredia"
+          website: "https://cayetano.edu.pe/"
+      - name: "Brayan Arenas" #Colombia 
         website: ""
         affiliation:
-          name: ""
-          website: ""
-      - name: "George Fajardo" #Peru
+          name: "Universidad Pontificia Bolivariana"
+          website: "https://www.upb.edu.co/es/home"
+      - name: "Fajardo S. George" #Peru
         website: ""
         affiliation:
-          name: ""
-          website: ""
+          name: "Toulouse Lautrec Private Institute of Higher Technological Education"
+          website: "https://www.toulouselautrec.edu.pe/"
       - name: "José Alberto Ferreira Filho"
         website: "https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=394714"
         affiliation:
@@ -279,11 +279,6 @@ days:
         affiliation:
           name: "Universidad Autónoma de Occidente"
           website: "https://www.uao.edu.co/"
-      - name: "Claudio Santos Pinhanez"
-        website: "https://research.ibm.com/people/claudio-santos-pinhanez"
-        affiliation:
-          name: "IBM Research Brazil"
-          website: "https://research.ibm.com/labs/brazil"
       - name: "Tiago de Souza" #Brazil
         website: ""
         affiliation:
