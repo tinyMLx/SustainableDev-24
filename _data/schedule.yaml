@@ -93,7 +93,9 @@ days:
         name: "Hands-On Computer Vision"
       - time: "3:00:00 PM"
         name: "TinyML in Space"
-      - time: "3:30:00 PM"
+      - time: "3:20:00 PM"
+        name: "Intelligent System for Identification of Leaf Diseases in Soybean Crops"
+      - time: "3:40:00 PM"
         name: "Bee Counting with FOMO and YOLO"
     speakers:
       - name: "Brian Plancher"
@@ -116,6 +118,11 @@ days:
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
+      - name: "Walter Augusto Varella"
+        website: "https://integra.ifsp.edu.br/p/walter-augusto-varella"
+        affiliation:
+          name: "Federal Institute of São Paulo"
+          website: "https://integra.ifsp.edu.br/"
 
   - number: "3"
     dayOfWeek: "Wednesday"
@@ -136,7 +143,7 @@ days:
       - time: "1:00:00 PM"
         name: "Hands-On Keyword Spotting"
       - time: "3:00:00 PM"
-        name: "TinyML on ICT"
+        name: "Use of TinyML in Intensive Care Units (ICT)"
     speakers:
       - name: "Jesús Alfonso López Sotelo"
         website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
@@ -148,8 +155,8 @@ days:
         affiliation:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
-      - name: "Walter Augusto Varella"
-        website: "https://integra.ifsp.edu.br/p/walter-augusto-varella"
+      - name: "Arnaldo de Carvalho Jr"
+        website: "hhttps://www.linkedin.com/in/arnaldocarvalho/"
         affiliation:
           name: "Federal Institute of São Paulo"
           website: "https://integra.ifsp.edu.br/"
