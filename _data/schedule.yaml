@@ -201,6 +201,11 @@ days:
         affiliation:
           name: "Harvard University"
           website: "https://seas.harvard.edu/"
+      - name: "Jeremy Ellis"
+        website: "https://www.linkedin.com/in/jeremy-ellis-4237a9bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+        affiliation:
+          name: "School District 75, Mission"
+          website: ""
       - name: "Jesús Alfonso López Sotelo"
         website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
         affiliation:
