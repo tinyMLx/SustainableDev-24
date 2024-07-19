@@ -65,6 +65,11 @@ days:
         affiliation:
           name: "Harvard University"
           website: "https://seas.harvard.edu/"
+      - name: "José Antonio Bagur Nájera"
+        website: "https://www.linkedin.com/in/joseantoniobagur/"
+        affiliation:
+          name: "Universidad del Valle de Guatemala"
+          website: "https://www.uvg.edu.gt/"
 
 
   - number: "2"
