@@ -50,21 +50,22 @@ days:
         affiliation:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
-      - name: "Vijay Janapa Reddi"
-        website: "https://scholar.harvard.edu/vijay-janapa-reddi"
-        affiliation:
-          name: "Harvard University"
-          website: "https://seas.harvard.edu/"
-      - name: "Marcelo Knörich Zuffo"
-        website: "https://www.lsi.usp.br/~mkzuffo/"
-        affiliation:
-          name: "Escola Politécnica da Universidade de São Paulo"
-          website: "https://www.poli.usp.br/"
       - name: "Rodrigo Neumann Barros Ferreira"
         website: "https://research.ibm.com/people/rodrigo-neumann-barros-ferreira"
         affiliation:
           name: "IBM Research Brazil"
           website: "https://research.ibm.com/labs/brazil"
+      - name: "Marcelo Knörich Zuffo"
+        website: "https://www.lsi.usp.br/~mkzuffo/"
+        affiliation:
+          name: "Escola Politécnica da Universidade de São Paulo"
+          website: "https://www.poli.usp.br/"
+      - name: "Vijay Janapa Reddi"
+        website: "https://scholar.harvard.edu/vijay-janapa-reddi"
+        affiliation:
+          name: "Harvard University"
+          website: "https://seas.harvard.edu/"
+
 
   - number: "2"
     dayOfWeek: "Tuesday"
