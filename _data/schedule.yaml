@@ -18,6 +18,8 @@ days:
       - time: "10:30 AM"
         name: "Coffee Break"
       - time: "11:00 AM"
+        name: "AI at the Edge with ARM and NVIDIA"
+      - time: "11:30 AM"
         name: "Getting Started with Your Projects"
       - time: "12:00 PM"
         name: "Lunch"
@@ -50,6 +52,11 @@ days:
         affiliation:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
+      - name: "Peter Ing"
+        website: ""
+        affiliation:
+          name: ""
+          website: ""
       - name: "Rodrigo Neumann Barros Ferreira"
         website: "https://research.ibm.com/people/rodrigo-neumann-barros-ferreira"
         affiliation:
