@@ -53,10 +53,10 @@ days:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
       - name: "Peter Ing"
-        website: ""
+        website: "https://www.linkedin.com/in/peter-ing-8baba8143/"
         affiliation:
-          name: ""
-          website: ""
+          name: "ARM"
+          website: "https://www.arm.com"
       - name: "Rodrigo Neumann Barros Ferreira"
         website: "https://research.ibm.com/people/rodrigo-neumann-barros-ferreira"
         affiliation:
