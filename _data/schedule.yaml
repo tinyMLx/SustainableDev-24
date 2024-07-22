@@ -68,7 +68,7 @@ days:
           website: "https://research.ibm.com/labs/brazil"
         links:
           - title: "Slides"
-            url: "/assets/slides/07-rodrigo-TinyML-Lab-Projects"
+            url: "/assets/slides/07-rodrigo-TinyML-Lab-Projects.pdf"
             local: "1"
       - name: "Marcelo Knörich Zuffo"
         website: "https://www.lsi.usp.br/~mkzuffo/"
