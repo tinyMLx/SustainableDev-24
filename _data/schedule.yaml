@@ -35,10 +35,10 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
-      #   links:
-      #     - title: "Slides"
-      #       url: "/assets/slides/marco_slides.pdf"
-      #       local: "1"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/01-marco-Welcome_ICTP IBM_Workshop.pdf"
+            local: "1"
       #       related_to_next: ""
       #     - title: "Video"
       #       url: "https://youtu.be/iTObHdfq5zM?si=6TfXJajJLwewN6nR"
@@ -52,6 +52,10 @@ days:
         affiliation:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/03-rovai-TinyML_Introduction.pdf"
+            local: "1"
       - name: "Peter Ing"
         website: "https://www.linkedin.com/in/peter-ing-8baba8143/"
         affiliation:
@@ -62,6 +66,10 @@ days:
         affiliation:
           name: "IBM Research Brazil"
           website: "https://research.ibm.com/labs/brazil"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/07-rodrigo-TinyML-Lab-Projects"
+            local: "1"
       - name: "Marcelo Knörich Zuffo"
         website: "https://www.lsi.usp.br/~mkzuffo/"
         affiliation:
@@ -72,11 +80,19 @@ days:
         affiliation:
           name: "Harvard University"
           website: "https://seas.harvard.edu/"
+        links:
+          - title: "link"
+            url: "https://harvard-edge.github.io/cs249r_book/"
+            local: "1"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
+        links:
+          - title: "link"
+            url: "Github.com/canchebagur/smr3961"
+            local: "1"
 
 
   - number: "2"
