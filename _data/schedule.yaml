@@ -129,8 +129,14 @@ days:
         links:
           - title: "Computer Vision Google Slides"
             url: "https://docs.google.com/presentation/d/1gUIdy2S9Jblk0jBr-bwszvz2sQh_viB-qNCJuAnbblA/"
+          - title: "as PDF"
+            url: "/assets/slides/Plancher-ComputerVisionSlides.pdf"
+            local: "1"
           - title: "Robotics Google Slides"
             url: "https://docs.google.com/presentation/d/1BQCwiIQv9vZWN10ahzZF6MAPTkePaOeYqQv_KDfen48/"
+          - title: "as PDF"
+            url: "/assets/slides/Plancher-TinyRobotsSlides.pdf"
+            local: "1"
       - name: "Marcelo Rovai"
         website: "https://github.com/Mjrovai"
         affiliation:
