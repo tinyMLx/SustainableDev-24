@@ -81,19 +81,16 @@ days:
           name: "Harvard University"
           website: "https://seas.harvard.edu/"
         links:
-          - title: "link"
+          - title: "CS249 Book"
             url: "https://harvard-edge.github.io/cs249r_book/"
-            local: "1"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
         links:
-          - title: "link"
+          - title: "GitHub"
             url: "Github.com/canchebagur/smr3961"
-            local: "1"
-
 
   - number: "2"
     dayOfWeek: "Tuesday"
@@ -129,6 +126,11 @@ days:
         affiliation:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
+        links:
+          - title: "Computer Vision Google Slides"
+            url: "https://docs.google.com/presentation/d/1gUIdy2S9Jblk0jBr-bwszvz2sQh_viB-qNCJuAnbblA/"
+          - title: "Robotics Google Slides"
+            url: "https://docs.google.com/presentation/d/1BQCwiIQv9vZWN10ahzZF6MAPTkePaOeYqQv_KDfen48/"
       - name: "Marcelo Rovai"
         website: "https://github.com/Mjrovai"
         affiliation:
