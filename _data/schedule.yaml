@@ -208,7 +208,7 @@ days:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
         links:
-          - title: "Google Slides"
+          - title: "Sustainable & Responsible TinyML - Google Slides"
             url: "https://docs.google.com/presentation/d/1lKviroLcFz6tYcGndDzqKO3T6DAHPGMYrVBDPEZnfOY/"
           - title: "as PDF"
             url: "/assets/slides/Plancher-SustainableSlides.pdf"
