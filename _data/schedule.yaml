@@ -145,6 +145,7 @@ days:
         links:
           - title: "Slides"
             url: "/assets/slides/day2_rovai_cv_at_the_edge.pdf"
+            local: "1"
 
       - name: "Eric Pan" 
         website: "https://www.linkedin.com/in/ericspan/"
