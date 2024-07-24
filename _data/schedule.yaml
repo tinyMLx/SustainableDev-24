@@ -193,6 +193,11 @@ days:
         affiliation:
           name: "Universidad Autónoma de Occidente"
           website: "https://www.uao.edu.co/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/day3-jesus-Sound_KWS_processing.pdf"
+            local: "1"
+      
       - name: "Brian Plancher"
         website: "https://brianplancher.com/"
         affiliation:
