@@ -193,6 +193,12 @@ days:
         affiliation:
           name: "Barnard College, Columbia University"
           website: "https://barnard.edu/"
+        links:
+          - title: "Google Slides"
+            url: "https://docs.google.com/presentation/d/1lKviroLcFz6tYcGndDzqKO3T6DAHPGMYrVBDPEZnfOY/"
+          - title: "as PDF"
+            url: "/assets/slides/Plancher-SustainableSlides.pdf"
+            local: "1"
       - name: "Arnaldo de Carvalho Jr"
         website: "hhttps://www.linkedin.com/in/arnaldocarvalho/"
         affiliation:
