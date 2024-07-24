@@ -45,7 +45,7 @@ days:
       - name: "Raquel Zarattini Chebabi"
         website: "https://research.ibm.com/people/raquel-zarattini-chebabi"
         affiliation:
-          name: "IBM Research Brazil"
+          name: "IBM Research"
           website: "https://research.ibm.com/labs/brazil"
       - name: "Marcelo Rovai"
         website: "https://github.com/Mjrovai"
@@ -64,7 +64,7 @@ days:
       - name: "Rodrigo Neumann Barros Ferreira"
         website: "https://research.ibm.com/people/rodrigo-neumann-barros-ferreira"
         affiliation:
-          name: "IBM Research Brazil"
+          name: "IBM Research"
           website: "https://research.ibm.com/labs/brazil"
         links:
           - title: "Slides"
@@ -251,12 +251,16 @@ days:
       - time: "12:00 PM"
         name: "Lunch"
       - time: "1:00 PM"
+        name: "Teaching TinyML to High-School Students"
+      - time: "1:15 PM"
+        name: "IBM Academic Initiative"
+      - time: "1:30 PM"
         name: "Hands-On Motion Classification and Anomaly Detection"
-      - time: "3:00 PM"
+      - time: "3:15 PM"
         name: "TinyML Rock Paper Scissors"
-      - time: "3:20 PM"
+      - time: "3:30 PM"
         name: "Car Accident Prevention"
-      - time: "3:40 PM"
+      - time: "3:45 PM"
         name: "ECG with TinyML"
       - time: "4:00 PM"
         name: "Getting On with Your Projects"
@@ -309,7 +313,20 @@ days:
         affiliation:
           name: "Micro:bit Educational Foundation"
           website: "https://microbit.org/"
-          
+      - name: "Jeremy Ellis"
+        website: "https://www.linkedin.com/in/jeremy-ellis-4237a9bb/"
+        affiliation:
+          name: "Sd75 Mission BC School, Canada"
+          website: ""
+      - name: "Rodrigo Neumann Barros Ferreira"
+        website: "https://research.ibm.com/people/rodrigo-neumann-barros-ferreira"
+        affiliation:
+          name: "IBM Research"
+          website: "https://research.ibm.com/labs/brazil"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/"
+            local: "1"
       - name: "Brayan Arenas" #Colombia 
         website: ""
         affiliation:
