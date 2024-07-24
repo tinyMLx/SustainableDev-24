@@ -89,7 +89,7 @@ days:
           name: "Universidad del Valle de Guatemala"
           website: "https://www.uvg.edu.gt/"
         links:
-          - title: "GitHub"
+          - title: "Hands-On Lab - GitHub"
             url: "https://github.com/canchebagur/smr3961"
 
   - number: "2"
