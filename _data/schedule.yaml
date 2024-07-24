@@ -163,7 +163,7 @@ days:
           name: "Federal Institute of São Paulo"
           website: "https://integra.ifsp.edu.br/"
         links:
-          - title: "Slides"
+          - title: "Leaf Diseases in Soybean Crops - Slides as PDF"
             url: "/assets/slides/day2-varella-TinyML_Soya.pdf"
             local: "1"
 
