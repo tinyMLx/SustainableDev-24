@@ -90,7 +90,7 @@ days:
           website: "https://www.uvg.edu.gt/"
         links:
           - title: "GitHub"
-            url: "Github.com/canchebagur/smr3961"
+            url: "https://github.com/canchebagur/smr3961"
 
   - number: "2"
     dayOfWeek: "Tuesday"
