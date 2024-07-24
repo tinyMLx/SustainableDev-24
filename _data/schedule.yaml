@@ -142,6 +142,10 @@ days:
         affiliation:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/day2_rovai_cv_at_the _edge.pdf"
+
       - name: "Eric Pan" 
         website: "https://www.linkedin.com/in/ericspan/"
         affiliation: 
