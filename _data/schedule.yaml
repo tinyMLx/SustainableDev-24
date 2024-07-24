@@ -36,7 +36,7 @@ days:
           name: "ICTP"
           website: "https://www.ictp.it/"
         links:
-          - title: "Slides"
+          - title: "Workshop Introduction - Slides as PDF"
             url: "/assets/slides/01-marco-Welcome_ICTP IBM_Workshop.pdf"
             local: "1"
       #       related_to_next: ""
@@ -53,7 +53,7 @@ days:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
         links:
-          - title: "Slides"
+          - title: "Embedded ML (TinyML) Intro & Applications - Slides as PDF"
             url: "/assets/slides/03-rovai-TinyML_Introduction.pdf"
             local: "1"
       - name: "Peter Ing"
@@ -143,7 +143,7 @@ days:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
         links:
-          - title: "Slides"
+          - title: "Computer Vision (CV) at the Edge - Slides as PDF"
             url: "/assets/slides/day2_rovai_cv_at_the_edge.pdf"
             local: "1"
 
@@ -162,6 +162,10 @@ days:
         affiliation:
           name: "Federal Institute of São Paulo"
           website: "https://integra.ifsp.edu.br/"
+        links:
+          - title: "Slides"
+            url: "/assets/slides/day2-varella-TinyML_Soya.pdf"
+            local: "1"
 
   - number: "3"
     dayOfWeek: "Wednesday"
@@ -194,7 +198,7 @@ days:
           name: "Universidad Autónoma de Occidente"
           website: "https://www.uao.edu.co/"
         links:
-          - title: "Slides"
+          - title: "Sound and KWS in the Edge - Slides as PDF"
             url: "/assets/slides/day3-jesus-Sound_KWS_processing.pdf"
             local: "1"
       
@@ -214,6 +218,19 @@ days:
         affiliation:
           name: "Federal Institute of São Paulo"
           website: "https://integra.ifsp.edu.br/"
+        links:
+          - title: "TinyML at ICU - Slides as PDF"
+            url: "/assets/slides/day3-arnaldo-TinyML_in_ICU.pdf"
+            local: "1"
+      - name: "Marcelo Rovai"
+        website: "https://github.com/Mjrovai"
+        affiliation:
+          name: "Federal University of Itajuba - UNIFEI"
+          website: "https://unifei.edu.br/"
+        links:
+          - title: "Psychoacoustics Slides as PDF"
+            url: "/assets/slides/day3-rovai-psychoacustics.pdf"
+            local: "1"
 
   - number: "4"
     dayOfWeek: "Thursday"
