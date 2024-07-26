@@ -359,7 +359,7 @@ days:
       - time: "10:30 AM"
         name: "Coffee Break"
       - time: "11:00 AM"
-        name: "LLMs at the Edge - Fundamentals"
+        name: "LLMs at the Edge - Introduction"
       - time: "11:20 AM"
         name: "LLMs at the Edge - Case Study/Demo"
       - time: "11:40 AM"
@@ -398,6 +398,13 @@ days:
         affiliation:
           name: "Universidad Autónoma de Occidente"
           website: "https://www.uao.edu.co/"
+        links:
+          - title: "Ethics in AI - Slides as PDF"
+            url: "/assets/slides/day5-jesus-ethics_AI.pdf"
+            local: "1" 
+          - title: "LLMs Introduction - Slides as PDF"
+            url: "/assets/slides/day5-jesus-LLM_Intro.pdf"
+            local: "1" 
       - name: "Tiago de Souza Farias" #Brazil
         website: ""
         affiliation:
