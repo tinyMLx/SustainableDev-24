@@ -271,11 +271,6 @@ days:
         affiliation2:
           name: "Malmö University"
           website: "https://mau.se/en/"
-      - name: "Flavio du Pin Calmon"
-        website: "https://people.seas.harvard.edu/~flavio/"
-        affiliation:
-          name: "Harvard University"
-          website: "https://seas.harvard.edu/"
       - name: "Jeremy Ellis"
         website: "https://www.linkedin.com/in/jeremy-ellis-4237a9bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
         affiliation:
@@ -319,11 +314,6 @@ days:
         affiliation:
           name: "Micro:bit Educational Foundation"
           website: "https://microbit.org/"
-      - name: "Jeremy Ellis"
-        website: "https://www.linkedin.com/in/jeremy-ellis-4237a9bb/"
-        affiliation:
-          name: "Sd75 Mission BC School, Canada"
-          website: ""
       - name: "Rodrigo Neumann Barros Ferreira"
         website: "https://research.ibm.com/people/rodrigo-neumann-barros-ferreira"
         affiliation:
