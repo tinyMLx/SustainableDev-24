@@ -258,9 +258,7 @@ days:
         name: "Hands-On Motion Classification and Anomaly Detection"
       - time: "3:15 PM"
         name: "TinyML Rock Paper Scissors"
-      - time: "3:30 PM"
-        name: "Car Accident Prevention"
-      - time: "3:45 PM"
+      - time: "3:35 PM"
         name: "ECG with TinyML"
       - time: "4:00 PM"
         name: "Getting On with Your Projects"
@@ -340,11 +338,6 @@ days:
         affiliation:
           name: "Universidad Pontificia Bolivariana"
           website: "https://www.upb.edu.co/es/home"
-      - name: "Fajardo S. George" #Peru
-        website: ""
-        affiliation:
-          name: "Toulouse Lautrec Private Institute of Higher Technological Education"
-          website: "https://www.toulouselautrec.edu.pe/"
       - name: "José Alberto Ferreira Filho"
         website: "https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=394714"
         affiliation:
@@ -396,7 +389,7 @@ days:
         links:
           - title: "LSTM at the Edge & EI Python SDK - Slides as PDF"
             url: "/assets/slides/day5-rovai-lstm_at_the_edge.pdf"
-            #local: "1" 
+            local: "1" 
           - title: "Large Language Models (LLMs) at the Edge - Slides as PDF"
             url: "/assets/slides/day5-rovai-LLM_at_the Edge.pdf"
             local: "1" 
