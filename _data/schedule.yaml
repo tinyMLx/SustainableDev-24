@@ -298,6 +298,10 @@ days:
         affiliation:
           name: "Universidad Pontificia Bolivariana"
           website: "https://www.upb.edu.co/es/home"
+        links:
+          - title: "Advancements of TinyML in Santander, Colombia - Slides as PDF"
+            url: "/assets/slides/day4-SilviaSotelo.pdf"
+            local: "1" 
       - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
@@ -308,6 +312,10 @@ days:
         affiliation:
           name: "Universidad Peruana Cayetano Heredia"
           website: "https://cayetano.edu.pe/"
+        links:
+          - title: "Experiences using TinyML Tools in Teaching Biomedical Engineering - Slides as PDF"
+            url: "/assets/slides/day4-moises-biomedical_eng.pdf"
+            local: "1" 
       - name: "Jose Scodiero"
         website: "https://www.linkedin.com/in/jose-antonio-scodiero-aa0120/"
         affiliation:
