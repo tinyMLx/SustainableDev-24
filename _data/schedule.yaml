@@ -396,7 +396,7 @@ days:
         links:
           - title: "LSTM at the Edge & EI Python SDK - Slides as PDF"
             url: "/assets/slides/day5-rovai-lstm_at_the_edge.pdf"
-            local: "1" 
+            #local: "1" 
           - title: "Large Language Models (LLMs) at the Edge - Slides as PDF"
             url: "/assets/slides/day5-rovai-LLM_at_the Edge.pdf"
             local: "1" 
