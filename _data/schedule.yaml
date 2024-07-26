@@ -386,7 +386,7 @@ days:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
         links:
-          - title: "Computer Vision (CV) at the Edge - Slides as PDF"
+          - title: "Large Language Models (LLMs) at the Edge - Slides as PDF"
             url: "/assets/slides/day5-rovai-LLM_at_the Edge.pdf"
             local: "1" 
       - name: "Jesús Alfonso López Sotelo"
