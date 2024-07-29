@@ -276,11 +276,6 @@ days:
         affiliation:
           name: "School District 75, Mission"
           website: ""
-      - name: "Jesús Alfonso López Sotelo"
-        website: "https://www.uao.edu.co/perfil/jesus-alfonso-lopez-sotelo/"
-        affiliation:
-          name: "Universidad Autónoma de Occidente"
-          website: "https://www.uao.edu.co/"
       - name: "Silvia Sotelo-Lopez"
         website: ""
         affiliation:
@@ -328,6 +323,10 @@ days:
         affiliation:
           name: "Federal University of Itajuba - UNIFEI"
           website: "https://unifei.edu.br/"
+        links:
+          - title: "Classification of electrocardiogram signals (ECG) using TinyML - Slides as PDF"
+            url: "/assets/slides/day4-joseAlberto-ECG_TinyMl.pdf"
+            local: "1" 
 
   - number: "5"
     dayOfWeek: "Friday"
