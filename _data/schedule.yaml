@@ -152,6 +152,10 @@ days:
         affiliation: 
           name: "Seeed Studio"
           website: "https://www.seeedstudio.com/"
+        links:
+          - title: "Co-inventing Physical AI Agents to Watch Over Facilities - Slides as PDF"
+            url: "/assets/slides/day2-eric-co-inventing_physical_AI_agents.pdf"
+            local: "1"
       - name: "José Antonio Bagur Nájera"
         website: "https://www.linkedin.com/in/joseantoniobagur/"
         affiliation:
@@ -399,6 +403,10 @@ days:
         affiliation:
           name: "tinyML Foundation"
           website: "https://www.tinyml.org/"
+        links:
+          - title: "Closing Keynote: tinyML 2.0: Celebrating 5th Year of tinyML and the road ahead! - Slides as PDF"
+            url: "/assets/slides/day5-evgeni-tinyML_Brazil_2024_EG.pdf"
+            local: "1"
       - name: "Marco Zennaro"
         website: "http://users.ictp.it/~mzennaro/"
         affiliation:
