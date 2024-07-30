@@ -412,4 +412,8 @@ days:
         affiliation:
           name: "ICTP"
           website: "https://www.ictp.it/"
+        links:
+          - title: "Closing: Workshop on TinyML for Sustainable Development - Slides as PDF"
+            url: "/assets/slides/day5-marco-Closing_ICTP-IBM_Workshop.pdf"
+            local: "1"
 
